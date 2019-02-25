@@ -63,7 +63,7 @@ Primer na Krstu pri Savici:
 
 <meta itemprop="datePublished" content="2019-02-17T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-02-17T15:34:39&#43;01:00" />
-<meta itemprop="wordCount" content="374">
+<meta itemprop="wordCount" content="470">
 
 
 
@@ -177,9 +177,9 @@ Primer na Krstu pri Savici:
 library(tm)
 library(wordcloud)
 
-text &lt;- readLines(&quot;./../../static/data/2019-02-17_Krst_pri_Savici.txt&quot;)
-text &lt;- iconv(text, from =&quot;UTF-8&quot;, to = &quot;Windows-1250&quot;) #da ohranis sumnike
-# &lt;- iconv(text, from =&quot;Windows-1250&quot;, to = &quot;latin1&quot;) #da ohranis sumnike
+text &lt;- readLines(&quot;./../../static/data/2019-02-17_Krst_pri_Savici.txt&quot;, encoding = &quot;UTF-8&quot;)
+#text &lt;- iconv(text, from =&quot;UTF-8&quot;, to = &quot;Windows-1250&quot;) #da ohranis sumnike, to je iz R4.3, v R5.2 deluje ok brez tega.
+#text &lt;- iconv(text, from =&quot;Windows-1250&quot;, to = &quot;latin1&quot;) #da ohranis sumnike
 
 docs &lt;- Corpus(VectorSource(text))
 #docs &lt;- tm_map(docs, content_transformer(tolower))
@@ -197,9 +197,29 @@ dtm &lt;- TermDocumentMatrix(docs)
 m &lt;- as.matrix(dtm)
 v &lt;- sort(rowSums(m),decreasing=TRUE)
 d &lt;- data.frame(word = names(v),freq=v)
-#head(d, 20)
-
-set.seed(1234)
+head(d, 20)</code></pre>
+<pre><code>##                word freq
+## črtomír     črtomír   15
+## bogomila   bogomila   10
+## mož             mož    9
+## valjhun     valjhun    8
+## meč             meč    8
+## noč             noč    8
+## vero           vero    7
+## življenje življenje    7
+## tje             tje    7
+## svoje         svoje    7
+## srce           srce    7
+## ljubezen   ljubezen    7
+## ker             ker    7
+## bog             bog    7
+## préd           préd    6
+## čez             čez    6
+## tvoja         tvoja    6
+## ljubezni   ljubezni    6
+## vere           vere    6
+## pravi         pravi    6</code></pre>
+<pre class="r"><code>set.seed(1234)
 wordcloud(words = d$word, freq = d$freq, min.freq = 1,
           max.words=50, random.order=FALSE, rot.per=0.35, 
           colors=brewer.pal(7, &quot;Blues&quot;))</code></pre>
@@ -273,7 +293,11 @@ generate_wordcloud(text)</code></pre>
           <a href="/tags/python/">python</a>
           </div>
       <nav class="post-nav">
-        
+        <a class="prev" href="/post/sld-glajenje-%C4%8Dasovnih-vrst/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">[SLD] Glajenje časovnih vrst</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
         <a class="next" href="/post/sld-je-vredno/">
             <span class="next-text nav-default">[SLD] Je vredno ?</span>
             <span class="next-text nav-mobile">Next</span>
