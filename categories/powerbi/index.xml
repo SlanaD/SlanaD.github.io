@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pandas on p o p - PRIPOVEDKE O PODATKIH</title>
-    <link>/tags/pandas/</link>
-    <description>Recent content in pandas on p o p - PRIPOVEDKE O PODATKIH</description>
+    <title>PowerBI on p o p - PRIPOVEDKE O PODATKIH</title>
+    <link>/categories/powerbi/</link>
+    <description>Recent content in PowerBI on p o p - PRIPOVEDKE O PODATKIH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
     <lastBuildDate>Sun, 24 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/powerbi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,19 +21,6 @@
 Kurt Bollacker
 To ni tisti ETL za profesional IT z vso infrastrukturo. To je za uporabnika, ki drugače uporablja excel in word, pa bi rad potegnil skupaj podatke za kakšno leto nazaj.
 90% Extract: zanimivo bi bilo vedeti, koliko služb obstaja, zato ker ne znamo (nočemo, ne želimo) shranjevati podatkov v pravilni oblki in jih prepisujemo iz elektronske oblike v elektronsko obliko.</description>
-    </item>
-    
-    <item>
-      <title>[SLD] Je vredno ?</title>
-      <link>/post/sld-je-vredno/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/sld-je-vredno/</guid>
-      <description>“Svašta”
-Ibro Hadžipuzić
-Da predelaš malo večjo količino podatkov uporabiš npr. Python. Enostaven za naučit in z odličnimi knjižnicami za obdelavo podatkov (npr. Pandas). Računalnik je zmlel, kar je moral zmleti, ti si naredil osnovno EDA, imaš lepo urejene podatke, veš kaj bi rad in si pripravljen za vizualizacijo le teh.
-Sedaj pa imaš sledeče možnosti:
-Uporabiš že pripravljeno podlogo ( theme, style ), ki najbolj ustreza, vpišeš nekaj korekcij in glej ti ga graf.</description>
     </item>
     
   </channel>
