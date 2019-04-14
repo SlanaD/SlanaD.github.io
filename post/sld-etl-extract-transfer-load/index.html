@@ -178,7 +178,7 @@ sDatoteka = fIzberiDatoteko()
 df2 = pd.read_excel(sDatoteka, sheetname=0, header=0, skiprows=1)
 df = df.append(df2) #Appends the new data, to the end of dataframe
 df.to_excel(&quot;rezultat.xlsx&quot;, index = False)</code></pre>
-<p>Malo prilagojeno uporabniki je bilo dodan tkinterjev dialog za izbiranje datoteke.</p>
+<p>Malo prilagojeno uporabniku je bil dodan tkinterjev dialog za izbiranje datoteke.</p>
 <pre class="python"><code>#
 def fIzberiDatoteko():
 #File Select Dialog
@@ -268,7 +268,11 @@ if __name__ == &quot;__main__&quot;:
           <a href="/tags/etl/">ETL</a>
           </div>
       <nav class="post-nav">
-        
+        <a class="prev" href="/post/sld-pareto/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">[SLD] Pareto</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
         <a class="next" href="/post/sld-nekaj-elektrike/">
             <span class="next-text nav-default">[SLD] Nekaj elektrike</span>
             <span class="next-text nav-mobile">Next</span>
