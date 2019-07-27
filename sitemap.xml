@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>/post/sld-mlr-ve-parametri-na-linearna-regresija/</loc>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/sld-long-wide/</loc>
     <lastmod>2019-05-12T14:29:12+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -143,7 +150,7 @@
   
   <url>
     <loc>/categories/excel/</loc>
-    <lastmod>2019-05-12T14:29:12+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -151,6 +158,20 @@
   <url>
     <loc>/categories/infographics/</loc>
     <lastmod>2019-05-09T21:59:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ml/</loc>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mlr/</loc>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -178,7 +199,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-05-12T14:29:12+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -206,21 +227,21 @@
   
   <url>
     <loc>/categories/python/</loc>
-    <lastmod>2019-05-12T14:29:12+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-05-04T21:48:51+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2019-05-12T14:29:12+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -297,14 +318,14 @@
   
   <url>
     <loc>/tags/excel/</loc>
-    <lastmod>2019-05-12T14:29:12+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/forecast/</loc>
-    <lastmod>2019-02-23T15:48:10+01:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -465,14 +486,14 @@
   
   <url>
     <loc>/tags/python/</loc>
-    <lastmod>2019-05-12T14:29:12+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-05-04T21:48:51+02:00</lastmod>
+    <lastmod>2019-07-27T17:42:04+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

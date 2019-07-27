@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>ML</title>
+      <link>/tags/ml/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLR</title>
+      <link>/tags/mlr/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mlr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MS Office</title>
       <link>/tags/ms-office/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
@@ -59,7 +77,7 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -122,7 +140,7 @@
     <item>
       <title>excel</title>
       <link>/tags/excel/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/excel/</guid>
       <description></description>
@@ -131,7 +149,7 @@
     <item>
       <title>forecast</title>
       <link>/tags/forecast/</link>
-      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/forecast/</guid>
       <description></description>
@@ -329,7 +347,7 @@
     <item>
       <title>python</title>
       <link>/tags/python/</link>
-      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/python/</guid>
       <description></description>
@@ -338,7 +356,7 @@
     <item>
       <title>r</title>
       <link>/tags/r/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
