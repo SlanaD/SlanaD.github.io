@@ -32,7 +32,7 @@
     <item>
       <title>ETL</title>
       <link>/tags/etl/</link>
-      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/etl/</guid>
       <description></description>
@@ -95,7 +95,7 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -437,7 +437,7 @@
     <item>
       <title>r</title>
       <link>/tags/r/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -512,6 +512,15 @@
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/vizualizacija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web scraping</title>
+      <link>/tags/web-scraping/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-scraping/</guid>
       <description></description>
     </item>
     

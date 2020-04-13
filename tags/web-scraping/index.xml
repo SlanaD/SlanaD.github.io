@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ETL on p o p - PRIPOVEDKE O PODATKIH</title>
-    <link>/categories/etl/</link>
-    <description>Recent content in ETL on p o p - PRIPOVEDKE O PODATKIH</description>
+    <title>web scraping on p o p - PRIPOVEDKE O PODATKIH</title>
+    <link>/tags/web-scraping/</link>
+    <description>Recent content in web scraping on p o p - PRIPOVEDKE O PODATKIH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
     <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/etl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,18 +21,6 @@
 Grunf
 Kako prebrati podatke iz tabele na dinamični straniKo “rvest” ne deluje!Dinamične strani se generirajo šele, ko se naložijo v “browser”, pred tem pa določeni elementi na njih ne obstajajo. Običajno so rezultat jscript funkcije. S takšnih strani običajno ni možno brati tabel s pomočjo Rvest paketa (ali česa podobnega).
 Obvod je s pomočjo paketa RSelenium (Selenium v pythonu).</description>
-    </item>
-    
-    <item>
-      <title>[SLD] ETL - Extract, Transfer, Load</title>
-      <link>/post/sld-etl-extract-transfer-load/</link>
-      <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/sld-etl-extract-transfer-load/</guid>
-      <description>“Data that is loved tends to survive.”
-Kurt Bollacker
-To ni tisti ETL za profesional IT z vso infrastrukturo. To je za uporabnika, ki drugače uporablja excel in word, pa bi rad potegnil skupaj podatke za kakšno leto nazaj.
-90% Extract: zanimivo bi bilo vedeti, koliko služb obstaja, zato ker ne znamo (nočemo, ne želimo) shranjevati podatkov v pravilni oblki in jih prepisujemo iz elektronske oblike v elektronsko obliko.</description>
     </item>
     
   </channel>
